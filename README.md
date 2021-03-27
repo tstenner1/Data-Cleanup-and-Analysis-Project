@@ -35,10 +35,10 @@ Data extracted from:
     -Search in progress. Will omit if none available.
 
 What statistical analysis techniques do you want to apply?
-  -Comparison
+- Comparison
 
 Software workup
-  -Jupyter Notebook 
+- Jupyter Notebook 
 
 Modules 
 - Pandas, 

@@ -67,7 +67,7 @@ After you've analyzed your data to your satisfaction, you'll put together a pres
 
 
 
-Project Title: The Undisputable GOAT based on Statistics
+# Project Title: The Undisputable GOAT based on Statistics
 
 Team Members: Thomas Stenner, Anthony Proffit, Cyril Bajaracharya
 

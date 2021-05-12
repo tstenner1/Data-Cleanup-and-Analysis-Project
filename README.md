@@ -64,6 +64,9 @@ Finally, be sure that your projects meet the [technical requirements](TechnicalR
 
 After you've analyzed your data to your satisfaction, you'll put together a presentation to show off your work, explain your process, and discuss your conclusions.
 
+
+
+
 Project Title: The Undisputable GOAT based on Statistics
 
 Team Members: Thomas Stenner, Anthony Proffit, Cyril Bajaracharya

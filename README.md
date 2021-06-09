@@ -7,7 +7,7 @@ Dataset used:
 Basketball game data pertaining specifically to Kobe, Lebron and Jordan throughout their athletic career.
 Source: https://www.kaggle.com/xvivancos/michael-jordan-kobe-bryant-and-lebron-james-stats/tasks?taskId=169
 
-The kinds of questions asked of the data:
+The kinds of questions asked of the data
 
 Who is statistically the greatest basketball player of all time based on :
 * Playoff performance
